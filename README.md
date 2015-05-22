@@ -8,8 +8,13 @@ struct CorRGB{
 	unsigned int r;
 	unsigned int g;
 	unsigned int b;}
-struct circulo{
+struct Circulo{
 	struct centro Ponto2D;
 	float raio;
 	struct cor CorRGB;}
-int(main){return 0};
+int(main){
+	struct ponto1 Ponto2D;
+	struct circ1 Circulo;
+
+return 0
+};
