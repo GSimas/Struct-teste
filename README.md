@@ -12,6 +12,13 @@ struct Circulo{
 	struct centro Ponto2D;
 	float raio;
 	struct cor CorRGB;}
+
+void leInstancias(struct Ponto2D *p, struct Circulo *c){
+	printf("Digite o valor da instancia1 para o ponto");
+	printf("Digite o valor da instancia2 para o circulo");
+	scanf("%f",&p);
+}
+
 int(main){
 	struct ponto1 Ponto2D;
 	struct circ1 Circulo;
