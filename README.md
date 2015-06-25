@@ -1,27 +1,28 @@
 # Struct-teste
+
 ##Projeto teste para estruturas
-*Cria uma estrutura
-struct Ponto2D{
-	float x;
-	float y;}
-struct CorRGB{
-	unsigned int r;
-	unsigned int g;
-	unsigned int b;}
-struct Circulo{
-	struct centro Ponto2D;
-	float raio;
-	struct cor CorRGB;}
+* Cria uma estrutura
+* Define instâncias
+* Define valor de instâncias
+* Ponteiros para instâncias
+* Utiliza structs dentro de structs
+* Funções com structs
+* Structs de funções
+* ...
 
-void leInstancias(struct Ponto2D *p, struct Circulo *c){
-	printf("Digite o valor da instancia1 para o ponto");
-	printf("Digite o valor da instancia2 para o circulo");
-	scanf("%f",&p);
-}
 
-int(main){
-	struct ponto1 Ponto2D;
-	struct circ1 Circulo;
 
-return 0
-};
+
+
+
+
+
+
+
+
+
+
+
+##Observações
+- Repositório de atividades teste
+- Repositório não mais utilizado
